@@ -1,4 +1,4 @@
-exampleunityangrybots
+Angry Bots Unity 4.x Official Sample
 =====================
 
 Angry Bots is a demo/tutorial project that ships with the Unity game engine: http://unity3d.com/
